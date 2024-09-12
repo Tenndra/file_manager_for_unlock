@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca05380b-4d66-4693-be48-64f5208c028b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/file_manager_for_unlock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock ! Tutoriel/image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock le donjon de Doo-Arann P&amp;P.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_Spirou_PNP_A4/image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/Unlock_la_cabane_de_la_sorciere_planches_a_imprimer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/unlock_4-5eme_avenue.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/unlock_6-Elite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/unlock_8-TempleDeRa.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/unlock_Noel_en_juillet-.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressources/pdf/unlock_PNP_A4_CAMBRIOLAGE_FANTOME_FR_4card.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lWxWpD72vcsoybVoSFB3R2xunF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CelineLucas/PycharmProjects/file_manager_for_unlock/ressources/pdf&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CelineLucas\PycharmProjects\file_manager_for_unlock\ressources\pdf" />
+      <recent name="C:\Users\CelineLucas\PycharmProjects\file_manager_for_unlock\ressources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CelineLucas\PycharmProjects\file_manager_for_unlock\ressources\pdf" />
+      <recent name="C:\Users\CelineLucas\PycharmProjects\file_manager_for_unlock\ressources" />
+      <recent name="C:\Users\CelineLucas\PycharmProjects\file_manager_for_unlock" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="file_manager_for_unlock" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca05380b-4d66-4693-be48-64f5208c028b" name="Changes" comment="" />
+      <created>1725309667846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725309667846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
